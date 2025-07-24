@@ -18,7 +18,7 @@ A modular, extensible Python math engine that supports intuitive, dynamic, but s
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/DrIncognito/CalcModule.git
+   git clone https://github.com/yourusername/CalcModule.git
    cd CalcModule
    ```
 2. **Install requirements (for notebook support):**
